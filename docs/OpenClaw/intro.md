@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# OpenClaw 系统介绍
+# OpenClaw系统介绍
 
 ## 产品展示
 
@@ -26,7 +26,9 @@ OpenClaw 是一款功能强大的桌面AI助手，为您的工作和生活带来
 
 ## 购买地址
 
-如需购买，请访问官方渠道获取更多信息。
+如需购买，请访问官方淘宝店铺：
+
+[淘宝购买链接](https://item.taobao.com/item.htm?id=967894092488)
 
 
 
