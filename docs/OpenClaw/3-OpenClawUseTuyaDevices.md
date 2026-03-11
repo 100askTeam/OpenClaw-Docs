@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 10
 ---
 # OpenClaw家庭总控助手
 
