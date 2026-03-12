@@ -206,18 +206,7 @@ python scripts/tuya-cli.py control 6c410af05bebd6a1e8hgvk switch_led True
 ```
 
 
-
-## 9.开启Agent工具权限
-
-修改 openclaw.json 文件将工具权限修改为`full`：
-
-```
-"tools": {
-    "profile": "full"
-  },
-```
-
-## 10.打开web UI
+## 9.打开web UI
 
 ```
 openclaw dashboard
