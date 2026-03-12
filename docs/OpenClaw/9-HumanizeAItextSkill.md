@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# 人性化人工智能文本
+# OpenClaw增加人性化文本
 
 让AI生成的文本更具人性化，以绕过检测。这个人文化工具会重写ChatGPT、Claude和GPT内容，使其听起来自然
 
@@ -77,4 +77,5 @@ _meta.json  scripts  SKILL.md
 运行效果如下：
 
 ![image-20260312102234960](images/image-20260312102234960.png)
+
 
