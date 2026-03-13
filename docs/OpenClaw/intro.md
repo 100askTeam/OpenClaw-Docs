@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## 产品展示
 
-![OpenClaw 桌面AI助手](images/f6c25b29be80911487e0a80904d66f02.jpg)
+![OpenClaw 桌面AI助手](./images/f6c25b29be80911487e0a80904d66f02.jpg)
 
 ## 桌面AI助手
 
@@ -20,7 +20,7 @@ OpenClaw 是一款功能强大的桌面AI助手，为您的工作和生活带来
 
 扫码加入我们的交流群，与志同道合的伙伴一起探讨：
 
-![交流群二维码](images/image-20260310172903537.png)
+![交流群二维码](./images/image-20260310172903537.png)
 
 ---
 
