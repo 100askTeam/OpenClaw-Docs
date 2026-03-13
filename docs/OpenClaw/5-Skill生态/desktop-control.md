@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
-# OpenClaw增加桌面控制
+# 增加桌面控制Skill
 
 高级桌面自动化，包含鼠标、键盘和屏幕控制
 

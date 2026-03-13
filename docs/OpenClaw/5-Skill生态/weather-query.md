@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
-# OpenClaw增加天气查询
+# 天气查询Skill
 
 参考资料:[Weather — ClawHub](https://clawhub.ai/steipete/weather)
 

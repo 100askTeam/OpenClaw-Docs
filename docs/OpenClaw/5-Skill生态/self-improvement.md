@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
-# OpenClaw增加自我改进
+# 自我进化Skill
 
 ## 1.功能介绍
 

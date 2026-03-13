@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
 
-# OpenClaw增加人性化文本
+# 人性化文本Skill
 
 让AI生成的文本更具人性化，以绕过检测。这个人文化工具会重写ChatGPT、Claude和GPT内容，使其听起来自然
 

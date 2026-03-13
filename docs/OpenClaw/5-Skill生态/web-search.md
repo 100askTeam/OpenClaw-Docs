@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 11
 ---
-# OpenClaw增加网络搜索
+# 百度网络搜索Skill
 
 - 参考资料：[baidu web search — ClawHub](https://clawhub.ai/ide-rea/baidu-search)
 

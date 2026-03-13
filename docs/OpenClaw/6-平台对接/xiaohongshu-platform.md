@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Xiaohongshu Platform
+# More Platform
 
 待补充...

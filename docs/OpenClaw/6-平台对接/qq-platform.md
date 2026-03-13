@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# OpenClaw接入QQ
+# 接入QQ机器人
 
 ## 1.创建QQ BOT
 

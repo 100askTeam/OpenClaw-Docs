@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# OpenClaw接入企业微信
+# 接入企业微信机器人
 
 - 参考资料：https://work.weixin.qq.com/nl/index/openclaw
 

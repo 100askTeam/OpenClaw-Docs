@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
-# OpenClaw增加主动创造
+# 主动创造Skill
 
 `proactive-agent` 这个Skill的核心定位是：**将AI从被动的任务执行者，转变为能主动预测需求、持续自我进化的合作伙伴**。
 

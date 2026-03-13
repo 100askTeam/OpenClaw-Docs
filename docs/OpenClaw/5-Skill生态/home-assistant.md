@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 8
 ---
-# OpenClaw家庭总控助手
+# 家庭总控助手Skill
 
 开始前请确保已经安装好了OpenClaw！
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: OpenClaw接入平台API Key
+title: 接入大模型平台API Key
 description: 详细介绍如何将OpenClaw接入阿里云百炼平台，包括获取API Key、配置SSH隧道、设置网关令牌和配置模型等完整步骤。
 keywords: [OpenClaw, 阿里云百炼, API Key, 配置教程]
 tags: [OpenClaw, 阿里云, API配置]

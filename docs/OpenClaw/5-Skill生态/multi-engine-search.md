@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# OpenClaw支持多引擎网络搜索
+# 多引擎网络搜索Skill
 
 多搜索引擎集成，包含17个搜索引擎（8个CN + 9个全球搜索引擎）。支持高级搜索作符、时间筛选、网站搜索、隐私引擎以及 WolframAlpha 知识查询。不需要API密钥。
 

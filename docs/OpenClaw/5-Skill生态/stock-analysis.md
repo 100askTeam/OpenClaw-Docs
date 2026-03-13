@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 10
 ---
 
-# OpenClaw增加股票市场分析
+# 股票市场分析Skill
 
 雅虎财经（yfinance）驱动股票分析技能：报价、基本面、ASCII趋势、高分辨率图表（RSI/MACD/BB/VWAP/ATR），以及可选的网页分析
 
