@@ -16,7 +16,7 @@ sidebar_position: 8
 
 ```
 baiwen@dshanpi-a1:~$ cd .openclaw/workspace/
-baiwen@dshanpi-a1:~/.openclaw/workspace$ mkidr skills
+baiwen@dshanpi-a1:~/.openclaw/workspace$ mkdir skills
 baiwen@dshanpi-a1:~/.openclaw/workspace$ cd skills
 ```
 

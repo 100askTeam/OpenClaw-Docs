@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # 系统更新
 
-待补充...
+暂无升级

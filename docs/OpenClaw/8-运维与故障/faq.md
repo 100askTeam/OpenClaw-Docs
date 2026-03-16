@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
-# 常见问题
+# 故障排查FAQ
 
 ## 1.Node service: systemd not installed Agent 没有 Node 服务导致不回复
 
