@@ -122,9 +122,11 @@ openclaw gateway restart
 重启服务后，再次打开浏览器访问OpenClaw Web UI。
 
 2.OpenClaw盒子的用户密码和root密码
-用户名：openclaw
-密码：openclaw
-root超级用户密码：root
+
+**用户名：openclaw**
+**密码：openclaw**
+
+**root超级用户密码：root**
 
 
 ## 【拓展】连接HDMI屏幕
