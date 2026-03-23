@@ -58,6 +58,10 @@ npx -y @tencent-weixin/openclaw-weixin-cli@latest install
 
 ![image-20260323173518867](images/image-20260323173518867.png)
 
-4.测试结果：
+
+
+## 3.测试
+
+直接在微信ClawBot界面发送会话进行测试，如果配置成功了，OpenClaw会回复你。
 
 ![image-20260323173705859](images/image-20260323173705859.png)
